@@ -1,2 +1,4 @@
 Install required libraries and set up your python3 environment, it will calculate correlation against BTC/PERP for binance for different 
 timeframes and constantly update them on telegram
+
+You need a folder called 'data' where you run the scripts as it will save .csv files there.
